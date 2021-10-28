@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: default
+Title: Home
+link: Contact
 link: Blog
+link: Community
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
