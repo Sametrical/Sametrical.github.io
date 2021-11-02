@@ -33,6 +33,7 @@ Modelleme işlerimi açık kaynak bir 3 boyutlu tasarım programı olan **Blende
 2. Açık dünyada keşfedilebilir bir çok ada olacak.
 3. Ana karakter oyuna önceden tasarlanıp, belirlenmiş bir ada kolonisinde başlayacak.
 4. Ana karaktere özel bir ada(Ana üssümüz bu ada olacak).
+5. Deniz için custom ocean shader.
 &nbsp;
 <p align="center">
   <img width="600" height="200" src="/images/port-ocean-shader.png">
