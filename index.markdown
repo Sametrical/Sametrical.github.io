@@ -1,9 +1,9 @@
 ---
 layout: default
 Title: Home
-link: Contact
+link: Portfolyo
 link: Blog
-link: Community
+link: İletişim
 ---
 <p align="center">
   <img width="400" height="200" src="/images/welcome-message-large.png">
