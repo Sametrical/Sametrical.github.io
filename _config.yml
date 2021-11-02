@@ -23,8 +23,9 @@ title-logo: /images/title-logo.png
 email: Sametrical@outlook.com
 author: Samet
 description: >- # this means to ignore newlines until "baseurl:"
-  This site shows my personal projects and the stuff i am working on. I've been doing game developement for 2+ years in engines
-  like Unreal and Unity. I am also a 3D modeling and environement artist. Navigate to my Blog to see the current project i am working on.
+  Bu websitesi kişisel projelerim ve üzerinde çalıştığım işleri göstermek amacı ile kurulmuştur. Uzun süredir yaptığım işleri farklı farklı portfolyo sitelerine 
+  yükledim ve birden fazla dalda çalışma yaptığım için işler karmaşık bir hal almaya başladı. Bu yüzden bu site bütün çalışmalarımı bir araya toplayan bir portfolyo sitesi 
+  niteliğindedir.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sametrical.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 

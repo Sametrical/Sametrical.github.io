@@ -5,6 +5,8 @@ link: Contact
 link: Blog
 link: Community
 ---
-<h1><center>Welcome!</center></h1>
-<h3><center>I am a game developer and 3D environment artist from Turkey.</center></h3> 
+<p align="center">
+  <img width="400" height="200" src="/images/welcome-message-large.png">
+</p>
+<h3><center>Merhaba ben Samet. Uzun süredir 3D modelleme ve çeşitli oyun motorları ile ilgileniyorum. </center></h3> 
 
