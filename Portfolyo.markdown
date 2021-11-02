@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Öz Geçmiş
+title: Portfolyo
 ---
 
 
