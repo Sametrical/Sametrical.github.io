@@ -4,7 +4,7 @@ title:  "Capital Waters: Dev Blog #1 - Proje ve Tercihler."
 date:   2021-09-17 09:00:00 +0300
 categories: Capital Waters
 ---
-Öncelikle blog sayfamı okuyan herkese merhaba. Bu post Capital Waters ismini verdiğim Unity portfolyo projemin ilk yazısıdır. "İnsert Cümle Here" Postlarımda genel olarak sıfırdan oluşturduğum assetler, karşılaştığım buglar ve çeşitli problemlere karşı ürettiğim çözümler bulunacak.
+Öncelikle blog sayfamı okuyan herkese merhaba. Bu post Capital Waters ismini verdiğim Unity portfolyo projemin ilk yazısıdır. Postlarımda genel olarak sıfırdan oluşturduğum assetler, karşılaştığım buglar ve çeşitli problemlere karşı ürettiğim çözümler bulunacak.
 
 <center><h3>Oyun Motoru</h3></center>
 
