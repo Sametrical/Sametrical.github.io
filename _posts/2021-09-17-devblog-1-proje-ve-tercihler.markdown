@@ -57,15 +57,10 @@ Blender açık kaynak ve ücretsiz olmasına karşın çok güçlü bir yazılı
 <center><h1>SON</h1></center>
 
 <p align = "center">
-<a href="/Blog.html"> <- Geri </a>
+<a href="/Blog.html"> <- Blog Sayfasına Geri Dön </a>
 &nbsp;|
 <a href="/capital/waters/2021/09/20/devblog-2-kurallar-ve-karakter-kontrolcüsü.html">Sonraki -></a>
 </p>
-
-<p align = "left">
-<a href="/Blog.html"> <- Blog Sayfasına Geri Dön </a>
-</p>
-
 <p align = "right">
 <em>Dilek ve görüşleriniz için bana sitenin iletişim bölümünden ulaşabilirsiniz.</em>
 </p>

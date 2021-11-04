@@ -14,7 +14,7 @@ Post
 <br/>
 <br/>
 <a href="/capital/waters/2021/09/17/devblog-1-proje-ve-tercihler.html"> <- Önceki </a>
-&nbsp;|
+&nbsp;|&nbsp;
 <a href="/capital/waters/2021/09/20/devblog-2-kurallar-ve-karakter-kontrolcüsü.html">Sonraki -></a>
 
 </p>
