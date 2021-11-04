@@ -4,6 +4,10 @@ title:  "Capital Waters: Dev Blog #1 - Proje ve Tercihler."
 date:   2021-09-17 09:00:00 +0300
 categories: Capital Waters
 ---
+<p align = "left">
+<a href="/Blog.html"> <- Blog Sayfasına Geri Dön </a>
+</p>
+
 Öncelikle blog sayfamı okuyan herkese merhaba. Bu post Capital Waters ismini verdiğim Unity portfolyo projemin ilk yazısıdır. Postlarımda genel olarak sıfırdan oluşturduğum assetler, karşılaştığım buglar ve çeşitli problemlere karşı ürettiğim çözümler bulunacak. Postları genel olarak kısa tutup, daha sık post atmak istiyorum. Böylece her postumun 2000 kelimelik bir essay olmasından kaçınmak istiyorum.
 
 <center><h3>Oyun Motoru</h3></center>
@@ -51,10 +55,16 @@ Blender açık kaynak ve ücretsiz olmasına karşın çok güçlü bir yazılı
 &nbsp;
 
 <center><h1>SON</h1></center>
+
 <p align = "center">
+<a href="/Blog.html"> <- Geri </a>
+&nbsp;|
 <a href="/capital/waters/2021/09/20/devblog-2-kurallar-ve-karakter-kontrolcüsü.html">Sonraki -></a>
 </p>
 
+<p align = "left">
+<a href="/Blog.html"> <- Blog Sayfasına Geri Dön </a>
+</p>
 
 <p align = "right">
 <em>Dilek ve görüşleriniz için bana sitenin iletişim bölümünden ulaşabilirsiniz.</em>
