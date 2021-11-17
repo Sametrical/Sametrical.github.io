@@ -11,4 +11,4 @@ link: İletişim
 <h3><center>Merhaba ben Samet. 
 <br/> 
 <br/> 
-3D modelleme ve çeşitli oyun motorları ile yakından ilgileniyorum. Hedefim kendimi endüstri standardına çıkartıp, bu sektörde kalıcı bir yer edinmek. Bu hedef doğrultusunda, üzerinde uğraştığım projeleri bu web sitesi üzerinden paylaşmaktayım. Son projelerim hakkında bilgi sahibi olmak için blog sayfamı inceleminizi öneririm. </center></h3> 
+3D modelleme ve çeşitli oyun motorları ile yakından ilgileniyorum. Yaptığım işleri genel olarak bu siteden paylaşıyorum. Üzerinde çalıştığım projeleri blog sayfamdan görüntüleyebilirsiniz.</center></h3> 

@@ -12,7 +12,7 @@ categories: Capital Waters
 
 <center><h3>Oyun Motoru</h3></center>
 
-Oyun motoru tercihim **Unity** oldu. Öncelikle benim için bu tercihin nedenlerini açıklakmak istiyorum. Her ne kadar daha  **Unreal Engine 4** ile daha fazla tecrübem olsa da, motorun ana yazılım dili olan c++ konusunda yeterli dokümantasyona yetersizliğinden dolayı, projeyi ilerletmek çok zaman alıyor. Pointerları saymıyorum bile. Maalesef **UE4**'ün sahip olduğu Visual Scripting(Blueprint) sistemi başta kulağa hoş gelse de, bir yerden sonra kod spagettiye dönüştüğü için kod üzerinde çalışması bir hayli zor olabiliyor. En azından benim tecrübem bu yönde oldu. **Unity**'nin programlama dili olan c#, önceki zamanlarda aldığım çeşitli kurslardan dolayı benim sentaksına daha aşina olduğum bir dil. Ayrıca **Unity**'nin drag and drop mantığı kafama daha fazla yatıyor. Tabi bir de **Unity**'nin kolayca ulaşılabilinen engin tutorial olanaklarını da unutmamak gerek. Bu proje için, iki motoruda kullanmış biri olarak tercihimi **Unity** üzerinden kullanıyorum.
+Oyun motoru tercihim **Unity** olacak. **Unity**'nin programlama dili olan c#, önceki zamanlarda aldığım çeşitli kurslardan dolayı benim sentaksına daha aşina olduğum bir dil. Tabi bir de kolayca ulaşılabilinen engin tutorial olanakları ve sahip olduğu geniş topluluğu unutmamak gerek. **Unreal Engine 4** kullandığım vakitlerde, en çok problemini yaşadığım konu da buydu, motorun ana progralama dili olan c++'da, motor için olan dokümantasyon ve tutorial eksiği. **UE4** dokümantasyonunda nerdeyse her olgu **Visual Scripting(Blueprints)**'e göre tasarlanmış. Başta inanılmaz bir sistem gibi gelsede, sonraları kodumun spagettiye dönmesinden dolayı konvensiyonel scriptinge nazaran daha fazla karmaşıklaştığını fark ettim. Bu yüzden 2 motoruda kullanmış biri olarak tercihimi **Unity** yanından kullanıyorum.
 
 <center><h3>3D Programlar</h3></center>
 
@@ -21,20 +21,17 @@ Yaklaşık 4 senedir **Blender** üzerinden 3 boyutlu modelleme yapmaktayım. Mo
 <p align="center">
   <img width="600" height="200" src="/images/port-gemi-top.png">
 </p>
-<center><em>Resim 1: Unreal Engine için daha önceden yaptığım 2 farklı 3 boyutlu model.</em></center>
+<center><em>Resim 1: Unreal Engine 4 için daha önceden yaptığım gemi ve top modeli.</em></center>
 &nbsp;
 
 Blender açık kaynak ve ücretsiz olmasına karşın çok güçlü bir yazılım ve her güncellemede güçlenmeye devam ediyor. Modelleme konusundaki bir çok gereksinimimi karşılayacak. Dokular için ise ücretli bir program olan **Substance Painter 2019**'u kullanacağım. Eğer dokuyu tamamen sıfırdan oluşturmam gerekiyorsa, yine aynı firmanın bir başka ücretli yazılımı olan **Substance Designer 2020**'yi kullanacağım. Duyduğuma göre bu yazılımları geliştiren firma **Adobe** tarafından satın alınmış. Önceden, iki yazılımın da "Perpetual Licence" dediğimiz süresiz olan indie lisanslarını satın aldığım için kendimi biraz şanslı hissetmiyorum değil. Bu iki programı kullanmamın nedeniyse prosedürel doku işlemlerinin üstesinden başarıyla gelebilmeleri. Açıkçası bir de **Blender**'da dokuları dışa aktarmanın bana biraz meşakatli gelmesi de var ki bu programlar bu konuda da çok yetenekli. Bu sayede low poly baking, LOD düzeni ve doku mapleri (color,normal,AO vb.) gibi konularda hatrı sayılır bir zaman kazanmayı hedefliyorum.
 
-&nbsp;
 [<center> <img src="/images/blender-features-reel-2.93.png"></center>](https://www.youtube.com/watch?v=fxNlpQYRz7s)
-<center><em>Blender 2.93 LTS - Features Reel Showcase</em></center>
-
+<center><em><small>Kullandığım Blender versiyonu hakkında bilgi sahibi olmak için : Blender 2.93 LTS - Features Reel Showcase</small></em></center>
 &nbsp;
 <center><h3>Capital Waters</h3></center>
 
-Şimdi biraz projemizin kendisinden bahsedelim. Projemiz zaten program tercihimizden de yola çıkarsak 3 boyutlu olacak. Kamera sistemimiz ise Top-Down yani üstten bakmalı olacak. Savaş ve dövüş mekanikleri olarak **MOBA** tarzına yakın bir mekanik düşündüm, tabi birkaç kısmı farklı olacak. Proje ilerledikçe postlarımda bu konu hakkında daha fazla ayrıntı vereceğim.
-
+Şimdi biraz projemizin kendisinden bahsedelim. Projemiz zaten program tercihimizden de yola çıkarsak 3 boyutlu olacak. Kamera sistemimiz ise Top-Down yani üstten bakmalı olacak. Savaş ve dövüş mekanikleri olarak **MOBA** tarzına yakın bir mekanik düşündüm, tabi birkaç kısmı farklı olacak. Render pipeline olarak Universal Render-pipeline kullanacağım. Proje ilerledikçe postlarımda bu konular hakkında daha fazla ayrıntı vereceğim.
 &nbsp;
 <h4>Oyunun Özellikleri</h4>
 
@@ -45,7 +42,7 @@ Blender açık kaynak ve ücretsiz olmasına karşın çok güçlü bir yazılı
 5. Deniz için custom ocean shader.
 &nbsp;
 <p align="center">
-  <img width="600" height="200" src="/images/port-ocean-shader.png">
+  <img width="600" height="250" src="/images/port-ocean-shader.png">
 </p>
 <center><em>Resim 2: Unity'de başka bir proje için yaptığım 2 farklı ocean shader.</em></center>
 <em>- Shaderin video halini görmek için</em> **[<em>tıklayın!</em>](https://www.youtube.com/watch?v=jlR_CDT9T44)**
@@ -54,16 +51,16 @@ Blender açık kaynak ve ücretsiz olmasına karşın çok güçlü bir yazılı
 Şimdilik scope-creep dediğimiz olayı yaşamamak için projemi kısıtlı tutmak istiyorum. Baştan hedefimi çok yüksek tutup burn-out riskini göze almayacağım. Projeyi genel hatlarıyla açıkladığımı varsayıp, bu postu burada bitirmek istiyorum. Bir sonraki postta projemizin kuralları, kullanılacak assetler konusuna gireceğim ve en azından ana karakterimizin kontrülcüsü ve kamera takip sistemini ekleyeceğim. Okuduğunuz için teşekkürler, bir sonraki postta görüşmek üzere hoşçakalın.
 &nbsp;
 
-<center><h1>SON</h1></center>
+<center><h1>-SON-</h1></center>
 
 <p align = "center">
-<a href="/Blog.html"> <- Blog Sayfasına Geri Dön </a>
-&nbsp;|
+<a href="/Blog.html"> <- Geri Dön </a>
+&nbsp;|&nbsp;
 <a href="/capital/waters/2021/09/20/devblog-2-kurallar-ve-karakter-kontrolcüsü.html">Sonraki -></a>
 </p>
 <p align = "right">
-<em>Dilek ve görüşleriniz için bana sitenin iletişim bölümünden ulaşabilirsiniz.</em>
+<em><small>Dilek, görüş ve sorularınız için bana web sitemin iletişim bölümünden ulaşabilirsiniz.</small></em>
 </p>
 <p align = "right">
-<em>- Samet</em>
+<em><small>- Samet</small></em>
 </p>
