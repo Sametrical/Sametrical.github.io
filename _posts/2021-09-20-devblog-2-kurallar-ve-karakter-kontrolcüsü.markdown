@@ -3,6 +3,7 @@ layout: post
 title:  "Capital Waters: Dev Blog #2 - Kurallar ve Karakter Kontrolcüsü."
 date:   2021-09-20 09:00:00 +0300
 categories: Capital Waters
+permalink: /blog-post-2
 ---
 <p align = "left">
 <a href="/Blog.html"> <- Blog Sayfasına Geri Dön </a>
@@ -101,9 +102,9 @@ Cinemachine ile bir yapay kamera oluşturup, ana kameraya bağladım ve body se�
 <br/>
 <br/>
 <p align = "center">
-<a href="/capital/waters/2021/09/17/devblog-1-proje-ve-tercihler.html"> <- Önceki </a>
+<a href="/blog-post-1"> <- Önceki </a>
 &nbsp;|&nbsp;
-<a href="">Sonraki -></a>
+<a href="/blog-post-3">Sonraki -></a>
 </p>
 <p align = "left">
 <a href="/Blog.html"> <- Blog Sayfasına Geri Dön </a>

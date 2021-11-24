@@ -3,6 +3,7 @@ layout: post
 title:  "Capital Waters: Dev Blog #1 - Proje ve Tercihler."
 date:   2021-09-17 09:00:00 +0300
 categories: Capital Waters
+permalink: /blog-post-1
 ---
 <p align = "left">
 <a href="/Blog.html"> <- Blog Sayfasına Geri Dön </a>
@@ -35,11 +36,11 @@ Blender açık kaynak ve ücretsiz olmasına karşın çok güçlü bir yazılı
 &nbsp;
 <h4>Oyunun Özellikleri</h4>
 
-1. Proje açık dünya olacak.
-2. Açık dünyada keşfedilebilir bir çok ada olacak.
-3. Ana karakter oyuna önceden tasarlanıp, belirlenmiş bir ada kolonisinde başlayacak.
-4. Ana karaktere özel bir ada(Ana üssümüz bu ada olacak).
-5. Deniz için custom ocean shader.
+* Proje açık dünya olacak.
+* Açık dünyada keşfedilebilir bir çok ada olacak.
+* Ana karakter oyuna önceden tasarlanıp, belirlenmiş bir ada kolonisinde başlayacak.
+* Ana karaktere özel bir ada(Ana üssümüz bu ada olacak).
+* Deniz için custom ocean shader.
 &nbsp;
 <p align="center">
   <img width="600" height="250" src="/images/port-ocean-shader.png">
@@ -54,9 +55,9 @@ Blender açık kaynak ve ücretsiz olmasına karşın çok güçlü bir yazılı
 <center><h1>-SON-</h1></center>
 
 <p align = "center">
-<a href="/Blog.html"> <- Geri Dön </a>
+<a href="/Blog"> <- Geri Dön </a>
 &nbsp;|&nbsp;
-<a href="/capital/waters/2021/09/20/devblog-2-kurallar-ve-karakter-kontrolcüsü.html">Sonraki -></a>
+<a href="/blog-post-2">Sonraki -></a>
 </p>
 <p align = "right">
 <em><small>Dilek, görüş ve sorularınız için bana web sitemin iletişim bölümünden ulaşabilirsiniz.</small></em>
